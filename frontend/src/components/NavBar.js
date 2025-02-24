@@ -71,6 +71,9 @@ export default function NavBar() {
       <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
         <Toolbar />
       </Box> */}
+      <Box sx={{display: 'flex', flexDirection: 'row', alignItems: 'flex-end'}}>
+
+      </Box>
     </Box>
   );
 }
